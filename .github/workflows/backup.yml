@@ -1,0 +1,22 @@
+name: 定时备份到另一个仓库
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 推送到备份仓库
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BACKUP_REPO="https://你的用户名:${TOKEN}@github.com/你的用户名/备份仓库名.git"
+          git push --mirror $BACKUP_REPO
