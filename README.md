@@ -16,6 +16,6 @@
 ### Part III NGS Data Analyses
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
-|2|Sequence Alignment & Blast|Tutorial:<br>[Part II. 1.Blast](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/1.seqblast)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
-|3|Conservation & Evolution|Tutorial:<br>[Part II. 2.Conservation Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/2.conservation-analysis)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
-|4|Genomic Resources|Tutorial:<br>[Appendix II. Databases & Servers](https://book.ncrnalab.org/teaching/appendix/appendix2.databases-servers)<br><br>Other Material:<br>101 计划《生物信息学》Ch4|
+|5|NGS: Next Generation Sequencing & Reads Mapping (Bowtie)|[Tutorial]():<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
+|6|DNA-seq and Genomic Features |Tutorial:<br>[Part II. 2.Conservation Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/2.conservation-analysis)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
+|7|Genomic Resources|Tutorial:<br>[Appendix II. Databases & Servers](https://book.ncrnalab.org/teaching/appendix/appendix2.databases-servers)<br><br>Other Material:<br>101 计划《生物信息学》Ch4|
