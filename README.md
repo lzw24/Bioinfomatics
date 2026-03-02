@@ -8,3 +8,9 @@
 |6-12|R - Basics|Tutorial:<br>[Part I. 2.1 R - Basics](https://book.ncrnalab.org/teaching/part-i.-programming-skills/2.r/2.1.r-basics)<br><br>Video Watching:<br>[R语言系统教程 25节](https://www.bilibili.com/video/BV1yt411y769/?p=8&vd_source=c43987d9cddbaf514ad190758cf107fc) <br>[R语言基础课程 6讲](https://www.bilibili.com/video/av73034243/?vd_source=f22405cd92f1cbd10bad64a1c84083ea)<br>[How to use R - ZJL](https://cloud.tsinghua.edu.cn/d/82e9fca41d634ce6b5df/?p=%2FPart%20I.%20Basic%20Skills%2F2.%20R&mode=list)<br><br>Other Material:<br>101 计划《生物信息学》Ch13
 |13-16|R - Plot|Tutorial:<br>[Part I. 2.2 Plot with R](https://book.ncrnalab.org/teaching/part-i.-programming-skills/2.r/2.2.plots-with-r)<br><br>Video Watching:<br>[R语言绘图ggplot2教程 9讲](https://www.bilibili.com/video/av327681672/?vd_source=f22405cd92f1cbd10bad64a1c84083ea) <br><br>Other Material:《Bioinformatics Data Skills》Ch8, 9
 |17-18|Python|Tutorial:<br>[Part I. 3. Python](https://book.ncrnalab.org/teaching/part-i.-programming-skills/3.python)<br><br>Other Material:<br>101 计划《生物信息学》Ch13<br>《Learning Python the Hard Way》
+### Part II Basic Analyses
+|Week|Topic|Detail Pathway|
+|:---:|:---:|:---:|
+|2|Sequence Alignment & Blast|Tutorial:<br>[Part II. 1.Blast](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/1.seqblast)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
+|3|Conservation & Evolution|Tutorial:<br>[Part II. 2.Conservation Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/2.conservation-analysis)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
+|4|Genomic Resources|Tutorial:<br>[Appendix II. Databases & Servers](https://book.ncrnalab.org/teaching/appendix/appendix2.databases-servers)<br><br>Other Material:<br>101 计划《生物信息学》Ch4|
