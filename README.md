@@ -16,6 +16,15 @@
 ### Part III NGS Data Analyses
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
-|5|NGS: Next Generation Sequencing & Reads Mapping (Bowtie)|[Tutorial]():<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
-|6|DNA-seq and Genomic Features |Tutorial:<br>[Part II. 2.Conservation Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/2.conservation-analysis)<br><br>Other Material:<br>101 计划《生物信息学》Ch5|
-|7|Genomic Resources|Tutorial:<br>[Appendix II. Databases & Servers](https://book.ncrnalab.org/teaching/appendix/appendix2.databases-servers)<br><br>Other Material:<br>101 计划《生物信息学》Ch4|
+|5|NGS: Next Generation Sequencing & Reads Mapping (Bowtie)|[Tutorial](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/1.mapping):<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
+|6|DNA-seq and Genomic Features |Tutorial:<br>[Appendix VI. Genome Annotation](https://book.ncrnalab.org/teaching/appendix/appendix-vi-genome-and-annotation)<br>[Part III. 8.cfDNA](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/8.cfdna)<br><br>Other Material:<br>101 计划《生物信息学》Ch6|
+|7|RNA-seq and Expression Analyses & Strand-specific seq.|Tutorial:<br>[Part III. 2. RNA-seq](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/2.rna-seq)<br><br>Other Material:<br>101 计划《生物信息学》Ch2, 7|
+|8|Clustering & Functional Analysis & RNA Regulation Analyses|Tutorial:<br>[Part II. 3. Function Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/3.function-analysis)<br>[Part II. 4. Clinical Analysis](https://book.ncrnalab.org/teaching/part-ii.-basic-analyses/4.clinical-analyses)<br>[Part III. 6.RNA Regulations ](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/6.rna-regulation)<br>[Part III. 7.RNA Regulations](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/7.rna-regulation-ii)|
+|9|Single Cell Data Analyses & ChIP-seq & CLIP-seq|Tutorial:<br>101 计划 转录组学-教材草稿 & 课程草稿|
+|10|Networking|Tutorial:<br>[Part III. 5.1 co-expression Network](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/5.rna-network/co_expression)<br>[Part III. 5.2 miRNA target](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/5.rna-network/mirna-targets)<br><br>Other Material:<br>101 计划《生物信息学》Ch11|
+### Part IV Machine Learning & AI
+|Week|Topic|Detail Pathway|
+|:---:|:---:|:---:|
+|11|Introduction|[Tutorial]():<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
+|13-14|Knowhow & Models|[Tutorial]():<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
+|15-16|Applications: AI for Biomedicine|[Tutorial]():<br>Part III. 1 Mapping (bowtie)<br>Part III. 1.1 Genome Browser<br>Part III. 1.2 bedtools and samtools<br><br>Other Material:<br>《Bioinformatics Data Skills》Ch10,  11|
