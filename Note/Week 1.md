@@ -14,7 +14,8 @@
   2. Analysis
   3. Modeling
   4. Qusetion OR Hypothesis
-- **The difference between Model and Algorithm**<br>
+- **The difference between Model and Algorithm**
+
 ||模型（Model）|算法（Algorithm）|
 |:---:|:---:|:---:|
 |定义|对现实世界某种现象的数学抽象，描述了**输入与输出**之间的关系。它是**学习的结果**，是**静态**的结构|求解问题或训练模型的**具体步骤和方法**。它是**学习的过程**，是**动态**的计算步骤。|
