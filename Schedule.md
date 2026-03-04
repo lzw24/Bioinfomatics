@@ -6,6 +6,8 @@
 4. 使用101计划 生物信息学作为参考书，希望学好这门课
 5. 每次写完代码进行备份
 
+- 具体时间安排如下，根据课程安排设计
+
 ## Part I Programming Skills
 |Week|Topic|Detail Pathway|
 |:---:|:---:|:---:|
